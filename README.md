@@ -1,5 +1,5 @@
 # terafac-ml-challenge
-Terafac ML Hiring Challenge – Option 1 CIFAR-10 Level 1
+Terafac ML Hiring Challenge – Option 1 CIFAR-10 Level 1234
 # Terafac ML Hiring Challenge Submission
 
 ## Candidate
@@ -8,8 +8,9 @@ Mayank Sharma
 ## Option Completed
 Option 1 – CIFAR-10 Image Classification
 
-## Level Completed
+## Levels Completed
 Level 1 (Baseline Model using Transfer Learning)
+Level 2 
 
 ## Description
 This repository contains the submission for the Terafac ML Hiring Challenge.
