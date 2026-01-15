@@ -11,6 +11,7 @@ Option 1 – CIFAR-10 Image Classification
 ## Levels Completed
 Level 1 (Baseline Model using Transfer Learning)
 Level 2 
+Level 3
 
 ## Description
 This repository contains the submission for the Terafac ML Hiring Challenge.
