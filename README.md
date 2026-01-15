@@ -12,6 +12,17 @@ Option 1 – CIFAR-10 Image Classification
 Level 1 (Baseline Model using Transfer Learning)
 Level 2 
 Level 3
+Level 4
+## Terafac ML Hiring Challenge
+
+- Option Selected: CIFAR-10
+- Levels Completed: Level 1, Level 2, Level 3, Level 4
+- Framework: PyTorch
+- Model: ResNet50 (Transfer Learning)
+- Explainability: Grad-CAM
+
+Please refer to the consolidated PDF for full details.
+
 
 ## Description
 This repository contains the submission for the Terafac ML Hiring Challenge.
