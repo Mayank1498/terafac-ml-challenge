@@ -20,3 +20,4 @@ in the attached PDF.
 
 ## Google Colab
 The Google Colab notebook link is included inside the PDF.
+colab link : https://colab.research.google.com/drive/1_IA1vzjZ68I0XY1v8sWMSYzAHrG0J24x?usp=sharing
