@@ -14,7 +14,7 @@
 - Level 1: Baseline Model using Transfer Learning  
 - Level 2: Performance Improvement (Data Augmentation & Regularization)  
 - Level 3: Advanced Techniques (Fine-tuning & Grad-CAM Explainability)  
-- **Level 4 :Model Analysis (Confusion Matrix, Class-wise Accuracy, Error Analysis)  
+- Level 4: Model Analysis (Confusion Matrix, Class-wise Accuracy, Error Analysis)  
 - Level 5: Production Readiness (Model Saving, Loading & Inference Pipeline)
 
 
